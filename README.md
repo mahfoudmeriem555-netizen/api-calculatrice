@@ -21,6 +21,8 @@ Elle permet à un utilisateur de soumettre deux nombres et de recevoir leur somm
 - Java
 - Spring Boot
 - Spring Web
+# test ---------->http://localhost:8081/api/v1/somme?a=5&b=10
+
 
 
 
